@@ -33,7 +33,7 @@ I enjoy creating clean, modular, and well-tested iOS apps — from polished Swif
 ### 📌 Demos
 
 <table align="center">
-  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/1f6cf485-5bef-472c-bcef-c5ab1ce6ca70" width="220"><br><sub>Home</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/6224cab9-b7bc-4121-b93d-e14a296724cb" width="220"><br><sub>Home</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/30ad66e1-d752-4e8a-a73f-7995d50739ec" width="220"><br><sub>Participants</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/41b81dfd-0bfc-4a9f-9e95-ccfa6afc4bbf" width="220"><br><sub>Tasks</sub></td>
