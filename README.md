@@ -31,9 +31,16 @@ I build clean, modular, well-tested iOS apps — from SwiftUI interfaces down to
 - **3D photogrammetry app (Signature Building):** SceneKit app showing 3D models made from aerial drone imagery, loaded in real time from Firebase.
 - **Vehicle inspection telemetry (Mecatronica Integral):** Arduino hardware plus a Node.js and Socket.io server streaming live measurements to the web.
 
-### 📌 Featured repositories
+### 📌 Demos
 
-> Pinned below: each one has a README with screenshots, the architecture, and how to run it.
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6224cab9-b7bc-4121-b93d-e14a296724cb" width="220"><br><sub>Home</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/30ad66e1-d752-4e8a-a73f-7995d50739ec" width="220"><br><sub>Calendar</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/41b81dfd-0bfc-4a9f-9e95-ccfa6afc4bbf" width="220"><br><sub>Tasks</sub></td>
+  </tr>
+</table>
+
 
 ### 🎓 Beyond code
 
