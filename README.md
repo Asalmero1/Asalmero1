@@ -46,7 +46,7 @@ I enjoy creating clean, modular, and well-tested iOS apps — from polished Swif
 - Former university instructor, teaching Programming, Databases, Networking, and Mobile Applications.
 - B.S. in Computer Engineering
 - Bilingual: Spanish (native) and English (C2)
-
+- Also MTB fan 🚵
 ---
 
 <sub>Most of my day-to-day work lives in private repositories, but I’d be happy to walk through my code and architecture in an interview.</sub>
