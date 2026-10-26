@@ -1,8 +1,8 @@
 # Hi, I'm Athos 👋
 
-**Senior iOS Engineer** · 11+ years building native iOS apps in Swift and Objective-C · Based in the US 🇺🇸
+Senior iOS Engineer with 11+ years of experience building native iOS apps in Swift and Objective-C. Based in the US 🇺🇸
 
-I build clean, modular, well-tested iOS apps — from SwiftUI interfaces down to networking, persistence, and release pipelines. Most recently I worked on **Thrillshare Mobile** and the **School App** at [Apptegy](https://www.apptegy.com), apps used by schools and families across the country.
+I enjoy creating clean, modular, and well-tested iOS apps — from polished SwiftUI interfaces to the networking, persistence, and release workflows that keep them running smoothly. Most recently, I’ve been working on Thrillshare Mobile and the School App, building scalable solutions for real-world product needs.
 
 <p>
   <a href="https://www.linkedin.com/in/athos-salmeron-5b8957127"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,10 +26,10 @@ I build clean, modular, well-tested iOS apps — from SwiftUI interfaces down to
 
 ### 🚀 Things I've built
 
-- **Thrillshare Mobile & the School App (Apptegy):** modular iOS libraries shared by both apps, white-label builds for school districts, in-app payments with Apple Pay and Wallet, real-time data with Combine and WebSockets, and A/B tests behind feature flags.
-- **FamilyHub** *(in development)*: an iPhone app that helps families organize their day, built from scratch in SwiftUI with its own **Vapor** backend.
-- **3D photogrammetry app (Signature Building):** SceneKit app showing 3D models made from aerial drone imagery, loaded in real time from Firebase.
-- **Vehicle inspection telemetry (Mecatronica Integral):** Arduino hardware plus a Node.js and Socket.io server streaming live measurements to the web.
+- **Thrillshare Mobile & the School App (Apptegy):** built modular iOS libraries shared across multiple apps, created white-label builds for school districts, implemented in-app payments with Apple Pay and Wallet, and integrated real-time data flows to support seamless product experiences.
+- **FamilyHub** *(in development)*: a SwiftUI iPhone app designed to help families stay organized, built from the ground up with a custom Vapor backend.
+- **3D photogrammetry app (Signature Building):** a SceneKit app that visualizes 3D models created from aerial drone imagery and loads them in real time from Firebase.
+- **Vehicle inspection telemetry (Mecatronica Integral):** an Arduino-powered system paired with a Node.js and Socket.io server that streams live measurements to the web.
 
 ### 📌 Demos
 
@@ -41,12 +41,12 @@ I build clean, modular, well-tested iOS apps — from SwiftUI interfaces down to
   </tr>
 </table>
 
-
 ### 🎓 Beyond code
 
-- Former university instructor: taught Programming, Databases, Networking, and Mobile Applications.
-- B.S. in Computer Engineering · Bilingual: Spanish (native) and English (C2).
+- Former university instructor, teaching Programming, Databases, Networking, and Mobile Applications.
+- B.S. in Computer Engineering
+- Bilingual: Spanish (native) and English (C2)
 
 ---
 
-<sub>Most of my day-to-day work lives in private repositories. Happy to walk through code and architecture in an interview.</sub>
+<sub>Most of my day-to-day work lives in private repositories, but I’d be happy to walk through my code and architecture in an interview.</sub>
