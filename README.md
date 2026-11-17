@@ -1,6 +1,6 @@
 # Hi, I'm Athos 👋
 
-Senior iOS Engineer with 11+ years of experience building native iOS apps in Swift and Objective-C. Based in the US 🇺🇸
+Senior iOS Engineer with 11+ years of experience building native iOS apps in Swift and Objective-C.
 
 I enjoy creating clean, modular, and well-tested iOS apps — from polished SwiftUI interfaces to the networking, persistence, and release workflows that keep them running smoothly. Most recently, I’ve been working on Thrillshare Mobile and the School App, building scalable solutions for real-world product needs.
 
